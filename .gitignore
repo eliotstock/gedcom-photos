@@ -1,0 +1,5 @@
+/photos
+/photos_*
+.DS_Store
+Thumbs.db
+*.ged
